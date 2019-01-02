@@ -1,4 +1,4 @@
-setwd("F:\\Console_FHCN\\network_analysis")
+setwd("F:\\network_analysis")
 
 library(jsonlite)
 library(qdap)
